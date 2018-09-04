@@ -1,0 +1,7 @@
+node_modules
+test/fixtures/*/build
+coverage
+.vscode/
+.idea/
+.DS_Store
+build/
